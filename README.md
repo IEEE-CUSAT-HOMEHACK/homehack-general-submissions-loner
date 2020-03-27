@@ -3,9 +3,13 @@ homehack-general-submissions-loner created by GitHub Classroom
 
 
 Install the required packages.
+
 Open Main_Executable_File
-As I couldn't upload the video recording due to its larger size, I commit with these files.
+
+Demo Video Link: https://drive.google.com/open?id=1rUOVqk-MHStyjNRLrp9Uwh6FXxauHVkZ
+
 I tested it with mario game in DOSBOX.
+
 1. Give voice command to open mario.
 2. Show your palm and click 'z'
 3. Shift the tab to the game.
